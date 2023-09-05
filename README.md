@@ -1,1 +1,2 @@
-https://files.slack.com/files-pri/T0HN7F83D-F05QW7B5Y5Q/redi-logo-header.png
+![image](https://github.com/MilanaBab/React-Batch-Fall-23/assets/144158349/be7d4a65-723d-4b62-a7a9-ff79a0e9e37d)
+
